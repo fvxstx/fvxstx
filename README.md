@@ -6,8 +6,11 @@
   <img align="left" alt="Fausto's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-* I'm learning about Python, Javascript, HTML, CSS
-* Always learning from life, LIVE NOW:new_moon:
+<br />
+<br />
+
+* I'm learning about Python, Javascript, HTML, CSS :computer:
+* Always learning from life, LIVE NOW :game_die:
 
 **Open for work** 
 <!--
