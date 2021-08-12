@@ -1,4 +1,4 @@
-### Hi, my name is Fausto from Brasil 
+### Hi, my name is Fausto and I'm from Brasil 
 <a href="https://www.linkedin.com/in/fvxstx/">
   <img align="left" alt="Fausto's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
