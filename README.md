@@ -21,10 +21,10 @@
 
 ## About me
 <a href="https://www.linkedin.com/in/fvxstx/">
-  <img align="left" alt="Fausto's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Fausto's LinkedIN" width="110px" heigth="110px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://open.spotify.com/user/12165681669?si=-6ubArR7R5OO6bCI4wlXLw">
-  <img align="left" alt="Fausto's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Fausto's Spotify" width="100px" heigth="100px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
 <br />
