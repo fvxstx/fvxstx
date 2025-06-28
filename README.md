@@ -1,10 +1,5 @@
 ### Hiii, my name is Fausto and I'm from Brasil 
 
-<div>
-  <a href="https://github.com/fvxstx">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fvxstx&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
-
 ## Technologies 
 <div style="display: inline-block">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
